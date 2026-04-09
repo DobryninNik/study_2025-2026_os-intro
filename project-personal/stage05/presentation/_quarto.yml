@@ -12,6 +12,9 @@ crossref:
   lol-title: Листинги
 format: # Formats
   beamer: # Pdf output format
+    mainfont: "Liberation Serif"
+    sansfont: "Liberation Sans"
+    monofont: "Liberation Mono"
     toc: true
     toc-title: Содержание
     number-sections: false
